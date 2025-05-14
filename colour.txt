@@ -1,2 +1,3 @@
 colour is blue
 colour is red
+print("white")
